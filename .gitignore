@@ -17,6 +17,9 @@
 /.next/
 /out/
 
+# test server folder
+/test-server/
+
 # production
 /build
 
