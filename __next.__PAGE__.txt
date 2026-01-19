@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
-2:I[17714,["/_next/static/chunks/0c664fdf4485cf46.js","/_next/static/chunks/65e225fec098a05d.js","/_next/static/chunks/d0d46cf3ebd10262.js"],"DashboardShell"]
-3:I[51645,["/_next/static/chunks/0c664fdf4485cf46.js","/_next/static/chunks/65e225fec098a05d.js","/_next/static/chunks/d0d46cf3ebd10262.js"],"QuickMetrics"]
-4:I[2606,["/_next/static/chunks/0c664fdf4485cf46.js","/_next/static/chunks/65e225fec098a05d.js","/_next/static/chunks/d0d46cf3ebd10262.js"],"AllProjectsStages"]
-5:I[45969,["/_next/static/chunks/0c664fdf4485cf46.js","/_next/static/chunks/65e225fec098a05d.js","/_next/static/chunks/d0d46cf3ebd10262.js"],"RiskSummary"]
-6:I[71623,["/_next/static/chunks/0c664fdf4485cf46.js","/_next/static/chunks/65e225fec098a05d.js","/_next/static/chunks/d0d46cf3ebd10262.js"],"RecentActivity"]
-7:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/61cc43b3d7ad2990.js"],"OutletBoundary"]
+2:I[17714,["/yourproject/_next/static/chunks/0c664fdf4485cf46.js","/yourproject/_next/static/chunks/65e225fec098a05d.js","/yourproject/_next/static/chunks/d0d46cf3ebd10262.js"],"DashboardShell"]
+3:I[51645,["/yourproject/_next/static/chunks/0c664fdf4485cf46.js","/yourproject/_next/static/chunks/65e225fec098a05d.js","/yourproject/_next/static/chunks/d0d46cf3ebd10262.js"],"QuickMetrics"]
+4:I[2606,["/yourproject/_next/static/chunks/0c664fdf4485cf46.js","/yourproject/_next/static/chunks/65e225fec098a05d.js","/yourproject/_next/static/chunks/d0d46cf3ebd10262.js"],"AllProjectsStages"]
+5:I[45969,["/yourproject/_next/static/chunks/0c664fdf4485cf46.js","/yourproject/_next/static/chunks/65e225fec098a05d.js","/yourproject/_next/static/chunks/d0d46cf3ebd10262.js"],"RiskSummary"]
+6:I[71623,["/yourproject/_next/static/chunks/0c664fdf4485cf46.js","/yourproject/_next/static/chunks/65e225fec098a05d.js","/yourproject/_next/static/chunks/d0d46cf3ebd10262.js"],"RecentActivity"]
+7:I[97367,["/yourproject/_next/static/chunks/ff1a16fafef87110.js","/yourproject/_next/static/chunks/61cc43b3d7ad2990.js"],"OutletBoundary"]
 8:"$Sreact.suspense"
-0:{"buildId":"CzaHl0vXOUL-8DpYEhNwY","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"Dashboard","children":["$","div",null,{"className":"space-y-4","children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","div",null,{"className":"grid gap-4 lg:grid-cols-2","children":[["$","$L5",null,{}],["$","$L6",null,{}]]}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/65e225fec098a05d.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/d0d46cf3ebd10262.js","async":true}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"tizzzXhHsNe9gf2p1GghB","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"Dashboard","children":["$","div",null,{"className":"space-y-4","children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","div",null,{"className":"grid gap-4 lg:grid-cols-2","children":[["$","$L5",null,{}],["$","$L6",null,{}]]}]]}]}],[["$","script","script-0",{"src":"/yourproject/_next/static/chunks/65e225fec098a05d.js","async":true}],["$","script","script-1",{"src":"/yourproject/_next/static/chunks/d0d46cf3ebd10262.js","async":true}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],"loading":null,"isPartial":false}
 9:null
